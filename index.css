@@ -81,4 +81,5 @@ footer a {
     font-weight: bold;
     color: #000072;
     text-decoration: none;
+    cursor: pointer;
 }
