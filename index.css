@@ -75,6 +75,8 @@ ul li:hover {
 footer {
     text-align: center;
     font-size: 16px;
+    position: absolute;
+    bottom: 10vh;
 }
 
 footer a {
